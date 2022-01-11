@@ -25,6 +25,7 @@
 		47AFAA88278D976A00605CC9 /* GuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AFAA82278D976A00605CC9 /* GuideView.swift */; };
 		47AFAA8C278D982D00605CC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47AFAA8B278D982D00605CC9 /* LaunchScreen.storyboard */; };
 		47AFAA8E278D9A4600605CC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47AFAA8D278D9A4600605CC9 /* Assets.xcassets */; };
+		47AFAA90278DBA8000605CC9 /* SymbolModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AFAA8F278DBA8000605CC9 /* SymbolModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		47AFAA82278D976A00605CC9 /* GuideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuideView.swift; sourceTree = "<group>"; };
 		47AFAA8B278D982D00605CC9 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47AFAA8D278D9A4600605CC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		47AFAA8F278DBA8000605CC9 /* SymbolModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 			children = (
 				47AFAA78278D972E00605CC9 /* TitleModifier.swift */,
 				47AFAA79278D972E00605CC9 /* ButtonModifier.swift */,
+				47AFAA8F278DBA8000605CC9 /* SymbolModifier.swift */,
 			);
 			path = Modifier;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				47AFAA85278D976A00605CC9 /* InfoView.swift in Sources */,
 				47AFAA76278D970300605CC9 /* HeaderComponent.swift in Sources */,
 				47AFAA7B278D972E00605CC9 /* ButtonModifier.swift in Sources */,
+				47AFAA90278DBA8000605CC9 /* SymbolModifier.swift in Sources */,
 				47AFAA83278D976A00605CC9 /* FooterView.swift in Sources */,
 				47AFAA84278D976A00605CC9 /* CardView.swift in Sources */,
 				47AFAA71278D96CF00605CC9 /* HoneymoonData.swift in Sources */,
